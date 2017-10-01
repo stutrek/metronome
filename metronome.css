@@ -1,0 +1,24 @@
+#bpm-value {
+	width: 100%;
+	font-size: 36px;
+	text-align: center;
+	border: none;
+}
+
+#bpm-slider {
+	width: 100%;
+}
+
+#start-stop {
+	margin-top: 30px;
+	width: 100%;
+	font-size: 24px;
+	text-align: center;
+	background-color: silver;
+	border: none;
+	border-radius: 20px;
+}
+
+#start-stop.playing {
+	background-color: #cdf;
+}
